@@ -22,6 +22,10 @@ module.exports = {
         path: '/about/',
       },
       {
+        label: 'Music',
+        path: '/music',
+      },
+      {
         label: 'Resume',
         path: '/resume/',
       },
