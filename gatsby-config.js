@@ -26,6 +26,10 @@ module.exports = {
         path: '/resume/',
       },
       {
+        label: 'Talks',
+        path: '/talks/',
+      },
+      {
         label: 'Contact me',
         path: '/contact/',
       },
