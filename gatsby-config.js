@@ -14,12 +14,16 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Home',
         path: '/',
       },
       {
         label: 'About me',
         path: '/about/',
+      },
+      {
+        label: 'Resume',
+        path: '/resume/',
       },
       {
         label: 'Contact me',
