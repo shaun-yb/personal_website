@@ -4,7 +4,7 @@ layout: page
 path: "/resume"
 ---
 
-Click [here](https://docs.google.com/document/d/1G8qpa1eZGc8ADDthpSklj9DQZ6z3Zg1MY_fE52QrM_A/preview) to download
+Click [here](https://docs.google.com/document/d/1G8qpa1eZGc8ADDthpSklj9DQZ6z3Zg1MY_fE52QrM_A/edit?usp=sharing) to download
 
 **Work Experience**
 
