@@ -10,7 +10,7 @@ module.exports = {
     title: 'Shaun Carland',
     subtitle:
       '... is a software engineer, musican, writer and activist based in New York City.',
-    copyright: '© All rights reserved.',
+    copyright: '',
     disqusShortname: '',
     menu: [
       {
