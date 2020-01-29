@@ -1,6 +1,6 @@
 ---
 title: Values that I Live By
-date: "2019-12-10T16:51:00.000Z"
+date: "2020-1-1T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/favorite-albums-of-2019/"
