@@ -4,7 +4,7 @@ date: "2020-03-06T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/how-to-build-a-web-crawler/"
-category: "Personal"
+category: "Software Engineering"
 tags:
   - "Software"
 description: 
