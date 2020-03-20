@@ -1,7 +1,8 @@
 ---
 title: "Event Risk Assessment"
-layout: page
+layout: post
 path: "/projects/everythings-cancelled/event-risk-assessment"
+date: "2020-03-20T16:51:00.000Z"
 ---
 
 
