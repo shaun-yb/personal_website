@@ -6,8 +6,13 @@ path: "/resume"
 
 Click [here](https://docs.google.com/document/d/1G8qpa1eZGc8ADDthpSklj9DQZ6z3Zg1MY_fE52QrM_A/edit?usp=sharing) to download
 
-**Work Experience**
+## Work Experience
 
+### YvesBlue
+New York, NY [March 2020 - Present]
+
+**Technologies Used**: Rails, React, D3, Minitest/RSpec, MySQL, Git
+-   More to come! 
 
 **Justworks** - New York, NY
 Software Engineer (January 2019 - December 2019)
@@ -21,25 +26,12 @@ Technologies Used: Ruby on Rails, React, Redux, RSpec, MySQL
 
 **Yesware** - Boston, MA
 Software Engineer (November 2016 - June 2018)
+
 Technologies Used: Rails, AngularJS, PosgresSQL, MongoDB, RSpec, Jasmine
 -   Developed features on a rules engine application used by over 15k regular users.
 -   Built an auto reply email detection system at customers’ request resulting in a standing ovation at a customer appreciation dinner.
 -   Implemented an email scheduler allowing users to automatically send emails on a given date.
 -   Designed an exit survey that yielded insights towards why users uninstalled the application, leading to strategic changes implemented by the Director of Customer Success.
-
-**Annkissam** - Boston, MA
-Rails Developer  (October 2015 - September 2016)
-Technologies Used: Rails, MySQL, RSpec, Git, Linux, HTML/CSS/JavaScript
--   Developed an electronic timesheet system for nonprofit employees that managed thousands of dollars daily.
--   Lead the development guidelines and principles in the engineering team around code reviewing.
--   Founded and chaired the diversity and inclusivity committee.
-
-**Gulf of Maine Research Institute** - Portland, ME
-Research Intern  (05/2015)-(09/2015)
-Technologies Used: R, Python, BASH, Linux
-- Won a Maine Space Grant Consortium Fellowship to fund research.
-- Built computational models to map the changes in salmon population sizes and locations over time, which were used in an article published in the Canadian Journal of Fisheries and Aquatic Sciences.
-- Constructed an API used by the laboratory to access and use salmon data.
 
 **Education**
 
