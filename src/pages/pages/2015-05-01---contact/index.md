@@ -8,4 +8,5 @@ path: "/contact"
 - [LinkedIn](http://www.linkedin.com/in/shauncarland)
 - [GitHub](http://www.github.com/shaunlawrencecarland)
 - [AngelList](https://angel.co/shaun-carland)
-- [Book a Meeting With Me](http://calendly.com/shauncarland) (please ask first!)
+- [RubyGems](https://rubygems.org/profiles/shauncarland)
+- [Bandcamp](https://shaunathan.bandcamp.com)
