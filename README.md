@@ -62,7 +62,7 @@ updated for Gatsby v2 by the team at
 ```
 
 ## Getting Started
-Install this starter   (assuming Gatsby is installed) by running from your CLI:
+Install this starter    (assuming Gatsby is installed) by running from your CLI:
 `gatsby new lumen https://github.com/GatsbyCentral/gatsby-v2-starter-lumen`
 
 #### Running in Development
