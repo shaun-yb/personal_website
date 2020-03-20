@@ -4,4 +4,4 @@ layout: page
 path: "/projects"
 ---
 
-WIP - Coming Soon!
+-  [Coronavirus SIR Modeling](http://shauncarl.land/projects/coronavirus-sir-modeling)
