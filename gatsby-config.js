@@ -22,6 +22,10 @@ module.exports = {
         path: '/about/',
       },
       {
+        label: 'Projects',
+        path: '/projects'
+      },
+      {
         label: 'Music',
         path: '/music',
       },
