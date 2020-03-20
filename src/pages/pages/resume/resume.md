@@ -8,11 +8,9 @@ Click [here](https://docs.google.com/document/d/1G8qpa1eZGc8ADDthpSklj9DQZ6z3Zg1
 
 ## Work Experience
 
-### YvesBlue
-New York, NY [March 2020 - Present]
-
-**Technologies Used**: Rails, React, D3, Minitest/RSpec, MySQL, Git
--   More to come! 
+**YvesBlue** - New York, NY
+Lead Software Engineer (March 2020 - Present)      
+Technologies Used: Rails, React, Minitest/RSpec, MySQL, Git
 
 **Justworks** - New York, NY
 Software Engineer (January 2019 - December 2019)
@@ -25,8 +23,7 @@ Technologies Used: Ruby on Rails, React, Redux, RSpec, MySQL
 -   Developed on a paid time off system flexible enough to be used across multiple states’ regulations.
 
 **Yesware** - Boston, MA
-Software Engineer (November 2016 - June 2018)
-
+Software Engineer     (November 2016 - June 2018)     
 Technologies Used: Rails, AngularJS, PosgresSQL, MongoDB, RSpec, Jasmine
 -   Developed features on a rules engine application used by over 15k regular users.
 -   Built an auto reply email detection system at customers’ request resulting in a standing ovation at a customer appreciation dinner.
