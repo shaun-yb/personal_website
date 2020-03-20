@@ -17,8 +17,8 @@ One way of distilling this information that has been helpful has been the #flatt
 I have been inspired by the impact the #flattenthecurve movement has been.  So I want to add onto that.  I want to create a series of interactive data visualization tools for users to measure how much their social behavior impacts the tragectory of a virus outbreak.  We need make sure that, whether it be a concert, wedding, or party, **EVERYTHING'S CANCELLED**!
 
 The two tools in development at the moment are:
-- Corona SIR Model
-- Event Risk Assessment
+- [Corona SIR Model](https://shauncar.land/projects/everythings-cancelled/coronavirus-sir-modeling)
+- [Event Risk Assessment](https://shauncar.land/projects/everythings-cancelled/event-risk-assessment)
 
 Technically speaking, all of the code is in the Everything's Cancelled [GitHub Organization](https://github.com/everythings-cancelled).  So far, each tool consists of two different parts: a sinatra backed API and a react frontend component.
 
