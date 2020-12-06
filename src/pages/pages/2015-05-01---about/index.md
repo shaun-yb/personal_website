@@ -6,7 +6,7 @@ path: "/about"
 
 👋Hello!
 
-My name is Shaun (although you problaby know that about me already, if you're reading this).  Currently, I am the lead backend engineer at [YvesBlue](http://yves.blue), a Financial Technology startup in NYC that builds software to allow investors how sustainable and impactful their portfolios are.
+My name is Shaun (although you probably know that about me already, if you're reading this).  Currently, I am the lead backend engineer at [YvesBlue](http://yves.blue), a Financial Technology startup in NYC that builds software to allow investors how sustainable and impactful their portfolios are.
 
 Growing up in a small town you probably haven't heard of [a small town you probably haven't heard of](https://en.wikipedia.org/wiki/Shapleigh,_Maine) in Maine, I spent my childhood hiking the Appalachian mountains, picking wild berries, partaking in philosophical discussions with trees, and swimming in the Atlantic year round.
 
