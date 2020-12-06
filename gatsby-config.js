@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Shaun Carland',
     subtitle:
-      '... is a software engineer, musican, writer and activist based in New York City.',
+      '... is a software engineer, musican, writer and expat exploring the world.',
     copyright: '',
     disqusShortname: '',
     menu: [
@@ -20,10 +20,6 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/',
-      },
-      {
-        label: 'Projects',
-        path: '/projects'
       },
       {
         label: 'Music',

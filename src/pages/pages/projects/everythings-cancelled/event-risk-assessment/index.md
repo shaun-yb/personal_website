@@ -1,11 +1,3 @@
----
-title: "Event Risk Assessment"
-layout: post
-path: "/projects/everythings-cancelled/event-risk-assessment"
-date: "2020-03-20T16:51:00.000Z"
----
-
-
 [Joshua Weltz](http://ecotheory.biology.gatech.edu/), a quantative biology professor at Georgia Tech, came up with a [formula](https://figshare.com/articles/COVID-19_Event_Risk_Assessment_Planner/11965533) to calculate the chance that within a country, at a given event of X size, there is at least one infected individual.  This formula can be written as: 
 
 `risk(g,p,i) = 1 -(1-(i/p))^g`

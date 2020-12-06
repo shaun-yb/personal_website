@@ -1,9 +1,3 @@
----
-title: "Everything's Cancelled"
-layout: post
-path: "/projects/everythings-cancelled"
-date: "2020-03-20T16:51:00.000Z"
----
 
 Like many people, my sense of normality has been torn underneath my feet like a rug in response to the Coronavirus.  On March 9, 2020, I flew to Puerto Rico to celebrate getting my job offer at YvesBlue.  While I was there, things kept getting weirder and weirder.  Schools were shutting down.  Borders were closing.  Basic household necessities were in shortage.  These were ombious signs for what was to come.
 
