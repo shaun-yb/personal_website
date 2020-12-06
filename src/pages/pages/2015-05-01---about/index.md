@@ -42,4 +42,4 @@ At the moment, I am currently living in Denver, CO; soaking up the mountains in 
 
 Due to the COVID-19 pandemic causing me to flee NYC, I have decided to become a 100% remote developer and embrace a digital nomad lifestyle - one where I can combine my love of traveling and my passion of programming together.
 
-I enjoy mentoring ambitious, motivated developers and I am always open to networking with individuals both in and out of the technology industry.  So if you ever wanna chat, feel free to hit me up!
+I enjoy mentoring ambitious, motivated developers and I am always open to networking with individuals both in and out of the technology industry.  So if you ever wanna chat about programming, traveling, music, or whatever else, feel free to hit me up!
