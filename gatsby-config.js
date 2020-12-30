@@ -8,8 +8,7 @@ module.exports = {
     url,
     siteUrl: url,
     title: 'Shaun Carland',
-    subtitle:
-      '... is a software engineer, musican, writer and expat exploring the world.',
+    subtitle: '', // '... is a software engineer, musician, writer and expat exploring the world.`
     copyright: '',
     disqusShortname: '',
     menu: [
