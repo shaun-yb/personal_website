@@ -1,8 +1,8 @@
 ---
-title: Serialization
+title: Serialization at YvesBlie
 date: "2020-12-28"
 layout: post
-draft: true
+draft: false
 path: "/posts/serialization-at-yvesblue/"
 category: "Software Engineering"
 tags:
