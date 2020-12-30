@@ -1,5 +1,5 @@
 ---
-title: Serialization at YvesBlie
+title: Serialization at YvesBlue
 date: "2020-12-28"
 layout: post
 draft: false
