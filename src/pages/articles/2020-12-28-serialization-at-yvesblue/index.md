@@ -12,14 +12,12 @@ description: ""
 
 ### Background
 
-An early architectural decision that we made early on at YvesBlue was to return a serialized representation of resources for all of our API endpoints, regardless   of what HTTP verb that endpoint correlates to.
-
-This basically means that for example, when we make POST endpoints, we want to return a serialized representation of that resource created.  Or alternatively, if we made a PUT request, we'd want to return a serialized representation of the updated resource.  Finally, we decided that we wanted to use JSON to implement our serializations.
+An early architectural decision that we made early on at YvesBlue was to return a serialized representation of resources for all of our API endpoints, regardless   of what HTTP verb that endpoint correlates to.  This basically means that for example, when we make POST endpoints, we want to return a serialized representation of that resource created.  Or alternatively, if we made a PUT request, we'd want to return a serialized representation of the updated resource.  
 
 There were a few motives behind this.  Primarily though, as a user of our API, I want to receive a written contract that ensures that a read or write to the database was successful.  Additionally, as the user of the API, providing a thorough and consistent serialization of the resource will create written documentation on how the data model works.  We can put the responses we are returning in our API documentation (we use Postman) along with documentation on what each field means.
 
 ### Challenges With Where We Were
-In our Rails application, three very important models are `Funds` and `Holdings`.  A `Fund` has many `Holdings`.  Each `Holding` belongs to one and only one `Fund`.  A truncated version of the migrations that would create these tables would look like this:
+In our Rails application, there are three very important models are `Funds` and `Holdings`.  A `Fund` has many `Holdings`.  Each `Holding` belongs to one and only one `Fund`.  A truncated version of the migrations that would create these tables would look like this:
 
 ```
 create_table "funds", force: :cascade do |t|
@@ -41,7 +39,6 @@ end
 With the corresponding models:
 ```
 class Fund < ApplicationRecord
-  belongs_to :user
   has_many :holdings
 end
 
@@ -65,8 +62,6 @@ POST /api/funds/:fund_id/holdings  # create a holding
 The endpoints we built initially looked like this:
 ```
 class Api::BaseController < ApplicationController; end
-```
-```
   module Api
     class FundsController < BaseController
       def index
@@ -88,9 +83,7 @@ class Api::BaseController < ApplicationController; end
       end
     end
   end
-```
 
-```
 module Api
   module Funds
     class HoldingsController < BaseController
